@@ -1,8 +1,8 @@
 # Hva slags sted skal Paradis være?
 
-Viser til Stavanger kommune [høring om utviklingen på Paradis området](https://www.stavanger.kommune.no/samfunnsutvikling/planer/reguleringsplaner/store-planoppgaver/paradis/#n-er-planprogrammet-p-h-ring-). Jeg bor på Våland så blir sterkt påvirket av hva som skjer på Paradis området. Derfor har jeg stor interesse i å gi meningen min og dele den med kommune. 
+Viser til Stavanger kommune [høring om utviklingen på Paradis området](https://www.stavanger.kommune.no/samfunnsutvikling/planer/reguleringsplaner/store-planoppgaver/paradis/#n-er-planprogrammet-p-h-ring-). Jeg bor på Våland så blir sterkt påvirket av hva som skjer på Paradis området. Derfor har jeg stor interesse i å gi meningen min og dele den med kommunen. 
 
-Nedenfor er spørmålene lagt av kommunen og meningene mine. 
+Nedenfor er spørmålene lagt av kommunen, følgt av meningene mine. 
 
 ## Har du innspill til visjon for utviklingen av Paradis-området?
 
@@ -13,7 +13,7 @@ Nedenfor er spørmålene lagt av kommunen og meningene mine.
 
  - "Prioritere gang, sykkel og kolektiv" - kjempe bra poenget!
 
- - "Gode koblinger til Paradis" - utfordrende men viktig poeng. Det må være flere koblingsmuliheter spesielt for fotgjengere og syklister fra Lagårdsveien og Østre Ring. Man kan ikke forvente at forgjengere tar omveier på flere hundre meter til å nå tilgangspunkter. Som står nå på utkast side 29, det er ikke nok koblinger, se for eksempel fra Kiwi på Høylandsgata, et veldig travelt område, som skal også bli påvirket av utviklingen etter at sykkehuset flytter og da kan bli kanskje enda travlere. Også viktig å ha fotgjengere og syklister eksklusiv brua over vatnet, og ikke bare sykkel eller fortau felt sammen med biler. Til slutt, men også viktig, er kobling til sykkelveien langs Gandsfjorden
+ - "Gode koblinger til Paradis" - utfordrende men viktig poeng. Det må være flere koblingsmuliheter spesielt for fotgjengere og syklister fra Lagårdsveien og Østre Ring. Man kan ikke forvente at fotgjengere tar omveier på flere hundre meter til å nå tilgangspunkter. Som står nå på utkast side 29, det er ikke nok koblinger, se for eksempel fra Kiwi på Høylandsgata, et veldig travelt område, som skal også bli påvirket av utviklingen etter at sykkehuset flytter og da kan det bli enda travlere. Også viktig å ha en bro over vatnet eksklusivt for fotgjengere og syklister, og ikke bare sykkel eller fortau felt sammen med biler. Til slutt, koblingen til sykkelveien langs Gandsfjorden er også viktig.
 
 - _more to come_
 
@@ -33,6 +33,7 @@ _TBC_
 ## Har du noen innspill til stedsanalysen?
 _Stedanalysen er ikke formelt på høring, men vi tar veldig gjerne imot innspil til det videre arbeidet med stedanalysen!_
 
-Angående visuelle forbindelser, nylig ombygd høyblokken på Lagårdsveien 80 er en brutalt inngrep på området, spesielt for huser på sør ende av Musegata og Valkyrjegata. Jeg håper at dette ikke brukes som presedens for flere høyhus på Paradis.
- 
+Angående visuelle forbindelser, den nylige ombygd høyblokken på Lagårdsveien 80 er en brutalt inngrep på området, spesielt for huser på sør ende av Musegata og Valkyrjegata. Jeg håper at dette ikke brukes som presedens for flere høyhus på Paradis.
+
+![Lagårdsveien 80](data/Lagårdsveien80_800.jpg)
 
