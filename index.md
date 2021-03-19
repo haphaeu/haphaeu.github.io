@@ -3,9 +3,16 @@
 
 ## Har du innspill til visjon for utviklingen av Paradis-området?
 
- - Ingen høyhuset. Se for eksempel Lagårdsveien 80 som hadde betydelig dårlig 
- påvirkning til trehusområde i sør ende til Musegata og Valkyrjegata. 
+ - Ingen høyhuset. Se for eksempel [Lagårdsveien 80](https://goo.gl/maps/vCJUjy7J4KetGPiH9) som hadde betydelig dårlig 
+ påvirkning i utsykt fra husområde i sør ende til Musegata og Valkyrjegata mot Storhaug og Hillevågsvatnet. 
  
+ - "Tett og godt", men ikke for tett. Viktig å beholde åpne og grønne plasser med god solforhold, spesielt rundt innsjøen.
+
+ - "Prioritere gang, sykkel og kolektiv" - kjempe bra poenget!
+
+ - "Gode koblinger til Paradis" - utfordrende men viktig poeng. Det må være flere koblingsmuliheter spesielt for fotgjengere og syklister fra Lagårdsveien og Østre Ring. Man kan ikke forvente at forgjengere tar omveier på flere hundre meter til å nå tilgangspunkter. Som står nå på utkast side 29, det er ikke nok koblinger, se for eksempel fra Kiwi på Høylandsgata, et veldig travelt område, som skal også bli påvirket av utviklingen etter at sykkehuset flytter og da kan bli kanskje enda travlere. Også viktig å ha fotgjengere og syklister eksklusiv brua over vatnet, og ikke bare sykkel eller fortau felt sammen med biler.
+
+- 
  
 
 ##  Har du innspill til de seks delmålene?
