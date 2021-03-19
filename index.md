@@ -1,6 +1,8 @@
 # Hva slags sted skal Paradis være?
 
-Viser til Stavanger kommune [høring om utviklingen på Paradis området](https://www.stavanger.kommune.no/samfunnsutvikling/planer/reguleringsplaner/store-planoppgaver/paradis/#n-er-planprogrammet-p-h-ring-).
+Viser til Stavanger kommune [høring om utviklingen på Paradis området](https://www.stavanger.kommune.no/samfunnsutvikling/planer/reguleringsplaner/store-planoppgaver/paradis/#n-er-planprogrammet-p-h-ring-). Jeg bor på Våland så blir sterkt påvirket av hva som skjer på Paradis området. Derfor har jeg stor interesse i å gi meningen min og dele den med kommune. 
+
+Nedenfor er spørmålene lagt av kommunen og meningene mine. 
 
 ## Har du innspill til visjon for utviklingen av Paradis-området?
 
