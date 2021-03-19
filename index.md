@@ -1,9 +1,10 @@
 # Hva slags sted skal Paradis være?
 
+Viser til Stavanger kommune [høring om utviklingen på Paradis området](https://www.stavanger.kommune.no/samfunnsutvikling/planer/reguleringsplaner/store-planoppgaver/paradis/#n-er-planprogrammet-p-h-ring-).
 
 ## Har du innspill til visjon for utviklingen av Paradis-området?
 
- - Ingen høyhuset. Se for eksempel [Lagårdsveien 80](https://goo.gl/maps/vCJUjy7J4KetGPiH9) som hadde betydelig dårlig 
+ - Ingen høyhus. Se for eksempel [Lagårdsveien 80](https://goo.gl/maps/vCJUjy7J4KetGPiH9) som hadde betydelig dårlig 
  påvirkning i utsykt fra husområde i sør ende til Musegata og Valkyrjegata mot Storhaug og Hillevågsvatnet. 
  
  - "Tett og godt", men ikke for tett. Viktig å beholde store, åpne og grønne plasser med god solforhold, spesielt rundt innsjøen.
