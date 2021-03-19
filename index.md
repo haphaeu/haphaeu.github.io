@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Hva slags sted skal Paradis være?
 
-You can use the [editor on GitHub](https://github.com/haphaeu/haphaeu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Har du innspill til visjon for utviklingen av Paradis-området?
 
-### Markdown
+ - Ingen høyhuset. Se for eksempel Lagårdsveien 80 som hadde betydelig dårlig 
+ påvirkning til trehusområde i sør ende til Musegata og Valkyrjegata. 
+ 
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##  Har du innspill til de seks delmålene?
+Paradis som del av sentrum
+Stedstilpasset byutviling
+Paradis som nabolag og nærområde
+Blågrønn spydspiss
+Den gå - og sykkel-vennlige bydelen
+Det klimavennlige og sirkulære Paradis
 
-```markdown
-Syntax highlighted code block
+## Hva tenker du at Paradisplanen kan bidra med i utviklingen av Stavanger sentrum og som nærområde?
 
-# Header 1
-## Header 2
-### Header 3
+## Andre innspill?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haphaeu/haphaeu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Har du noen innspill til stedsanalysen?
+Stedanalysen er ikke formelt på høring, men vi tar veldig gjerne imot innspil til det videre arbeidet med stedanalysen!
