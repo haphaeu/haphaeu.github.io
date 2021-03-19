@@ -15,24 +15,23 @@ Nedenfor er spørmålene lagt av kommunen og meningene mine.
 
  - "Gode koblinger til Paradis" - utfordrende men viktig poeng. Det må være flere koblingsmuliheter spesielt for fotgjengere og syklister fra Lagårdsveien og Østre Ring. Man kan ikke forvente at forgjengere tar omveier på flere hundre meter til å nå tilgangspunkter. Som står nå på utkast side 29, det er ikke nok koblinger, se for eksempel fra Kiwi på Høylandsgata, et veldig travelt område, som skal også bli påvirket av utviklingen etter at sykkehuset flytter og da kan bli kanskje enda travlere. Også viktig å ha fotgjengere og syklister eksklusiv brua over vatnet, og ikke bare sykkel eller fortau felt sammen med biler. Til slutt, men også viktig, er kobling til sykkelveien langs Gandsfjorden
 
-- 
- 
+- _more to come_
 
 ##  Har du innspill til de seks delmålene?
+_Paradis som del av sentrum, Stedstilpasset byutviling, Paradis som nabolag og nærområde, Blågrønn spydspiss, Den gå - og sykkel-vennlige bydelen, Det klimavennlige og sirkulære Paradis_
 
-- Paradis som del av sentrum
-- Stedstilpasset byutviling
-- Paradis som nabolag og nærområde
-- Blågrønn spydspiss
-- Den gå - og sykkel-vennlige bydelen
-- Det klimavennlige og sirkulære Paradis
+_TBC_
 
 ## Hva tenker du at Paradisplanen kan bidra med i utviklingen av Stavanger sentrum og som nærområde?
 
+_TBC_
+
 ## Andre innspill?
 
+_TBC_
+
 ## Har du noen innspill til stedsanalysen?
-Stedanalysen er ikke formelt på høring, men vi tar veldig gjerne imot innspil til det videre arbeidet med stedanalysen!
+_Stedanalysen er ikke formelt på høring, men vi tar veldig gjerne imot innspil til det videre arbeidet med stedanalysen!_
 
 Angående visuelle forbindelser, nylig ombygd høyblokken på Lagårdsveien 80 er en brutalt inngrep på området, spesielt for huser på sør ende av Musegata og Valkyrjegata. Jeg håper at dette ikke brukes som presedens for flere høyhus på Paradis.
  
