@@ -35,5 +35,5 @@ _Stedanalysen er ikke formelt på høring, men vi tar veldig gjerne imot innspil
 
 Angående visuelle forbindelser, den nylige ombygd høyblokken på Lagårdsveien 80 er en brutalt inngrep på området, spesielt for huser på sør ende av Musegata og Valkyrjegata. Jeg håper at dette ikke brukes som presedens for flere høyhus på Paradis.
 
-![Lagårdsveien 80](data/Lagårdsveien80_800.jpg)
+![Lagårdsveien 80](Lagårdsveien80_800.jpg)
 
